@@ -1,13 +1,24 @@
 main {
     text-align: center;
+    font-size: 30px;
+    font-family: Lucida Handwriting;
 }
 
 .tabuleiro div input {
     width: 100px;
     height: 100px;
     margin: 5px;
-    border: 1px solid gray;
+    border: 1px solid rgb(0, 0, 0);
     border-radius: 6px;
     font-size: 30px;
     cursor: pointer;
+}
+
+body {
+    background-color: wheat;
+}
+
+.velha {
+    height: 350px;
+    position: fixed;
 }
