@@ -298,4 +298,6 @@ if(jogadas==9){
     lblJogadas.innerText = '';
     return;
     }
+
+    lblJogadas.innerText = '(' + (jogadas+1) + 'ª Jogada)';
 }
