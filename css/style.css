@@ -19,6 +19,8 @@ body {
 }
 
 .velha {
-    height: 350px;
     position: fixed;
+    margin-top: 160px;
+    margin-left: 100px;
+    width: 170px;
 }
