@@ -1,6 +1,6 @@
 main {
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
     font-family: Lucida Handwriting;
 }
 
@@ -30,4 +30,10 @@ body {
     margin-left: 910px;
     width: 300px;
     margin-top: 150px;
+}
+
+.button {
+    color: black;
+    background-color: rgb(255, 255, 161);
+    padding: 10px;
 }
